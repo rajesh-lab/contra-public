@@ -1,6 +1,6 @@
-# AMI-CRT
+# CONTRA
 
-Additional mutual information conditional randomization tests
+[CONTRA: Contrarian statistics for controlled variable selection](https://proceedings.mlr.press/v130/sudarshan21a.html)
 
 ## Installation guide
 
