@@ -8,3 +8,6 @@
 pip install amicrt
 ```
 
+## Usage guide
+
+The class FastCRT corresponds to the CONTRA method.
